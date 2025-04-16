@@ -1,3 +1,4 @@
+import AddAnyWhere from './components/AddAnyWhere'
 import AddAtEnd from './components/AddAtEnd'
 import AddAtStart from './components/AddAtStart'
 import AddInputAtStart from './components/AddInputAtStart'
@@ -18,6 +19,7 @@ function App() {
       <ClearArray />
       <ChangeAforH />
       <AddInputAtStart />
+      <AddAnyWhere />
     </>
   )
 }
